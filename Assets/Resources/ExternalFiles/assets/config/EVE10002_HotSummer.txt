@@ -1,0 +1,53 @@
+{
+    "Attributes":
+    [
+		{
+            "id"   : "0",                    
+            "label": "yearlyChance",
+            "value": "10",
+            "unit" : "%"
+        },
+        {
+            "id"   : "1",                    
+            "label": "maxValueChance",
+            "value": "100",
+            "unit" : "%"
+        },
+		{
+            "id"   : "2",                    
+            "label": "minValueChance",
+            "value": "0",
+            "unit" : "€"
+        },
+        {
+            "id"   : "3",                    
+            "label": "valueChange",
+            "value": "1.36",
+            "unit" : "times"
+        },
+        {
+            "id"   : "4",                    
+            "label": "maxValueChange",
+            "value": "5.0",
+            "unit" : "times"
+        },
+		{
+            "id"   : "5",                    
+            "label": "minValueChange",
+            "value": "1.0",
+            "unit" : "times"
+        },
+		{
+            "id"   : "6",                    
+            "label": "startMonth",
+            "value": "6",
+            "unit" : "month"
+        },
+		{
+            "id"   : "7",                    
+            "label": "endMonth",
+            "value": "9",
+            "unit" : "month"
+        }
+    ]    
+}

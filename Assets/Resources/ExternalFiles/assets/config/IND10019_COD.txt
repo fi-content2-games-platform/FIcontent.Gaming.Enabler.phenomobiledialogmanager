@@ -1,0 +1,101 @@
+{
+    "Attributes":
+    [
+		{
+            "id"   : "1",                    
+            "label": "actualValue",
+            "value": "14.81535",
+            "unit" : "t/a"
+        },
+        {
+            "id"   : "2",                    
+            "label": "social_Threshold_Min",
+            "value": "0",
+            "unit" : "t/a"
+        },
+		{
+            "id"   : "3",                    
+            "label": "social_Threshold_Max",
+            "value": "4000",
+            "unit" : "t/a"
+        },
+        {
+            "id"   : "4",                    
+            "label": "social_Score_Current",
+            "value": "20",
+            "unit" : ""
+        },
+        {
+            "id"   : "5",                    
+            "label": "social_Score_Max",
+            "value": "20",
+            "unit" : ""
+        },
+        {
+            "id"   : "6",                    
+            "label": "social_Units_per_Point",
+            "value": "0",
+            "unit" : ""
+        },
+        {
+            "id"   : "7",                    
+            "label": "ecology_Threshold_Min",
+            "value": "0",
+            "unit" : "t/a"
+        },
+		{
+            "id"   : "8",                    
+            "label": "ecology_Threshold_Max",
+            "value": "4000",
+            "unit" : "t/a"
+        },
+        {
+            "id"   : "9",                    
+            "label": "ecology_Score_Current",
+            "value": "150",
+            "unit" : ""
+        },
+        {
+            "id"   : "10",                    
+            "label": "ecology_Score_Max",
+            "value": "150",
+            "unit" : ""
+        },
+        {
+            "id"   : "11",                    
+            "label": "ecology_Units_per_Point",
+            "value": "0",
+            "unit" : ""
+        },
+        {
+            "id"   : "12",                    
+            "label": "ecology_Threshold1",
+            "value": "0",
+            "unit" : ""
+        },
+        {
+            "id"   : "13",                    
+            "label": "ecology_Threshold1_Max_MalusPoints",
+            "value": "0",
+            "unit" : ""
+        },
+        {
+            "id"   : "14",                    
+            "label": "ecology_Threshold2",
+            "value": "0",
+            "unit" : ""
+        },
+        {
+            "id"   : "15",                    
+            "label": "ecology_Threshold2_Max_MalusPoints",
+            "value": "0",
+            "unit" : ""
+        },
+        {
+            "id"   : "16",                    
+            "label": "ecology_Threshold_Min_Max_MalusPoints",
+            "value": "0",
+            "unit" : ""
+        }
+    ]    
+}

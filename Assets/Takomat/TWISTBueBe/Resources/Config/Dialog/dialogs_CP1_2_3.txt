@@ -1,0 +1,120 @@
+{
+    "dialogs": [
+        {
+            "id": "D001",
+            "type": "bubble",
+            "screen": "CP1_2_3",
+            "character": {
+                "name": "",
+                "image": "Player"
+            },
+            "trigger": {
+                "event": "D002"
+            },
+            "text": {
+                "neutral": "001"
+            }
+        },
+        {
+            "id": "D002",
+            "type": "bubble",
+            "screen": "CP1_2_3",
+            "character": {
+                "visible": "false",
+                "image": "GrandPa"
+            },
+            "trigger": {
+                "event": "D0021"
+            },
+            "text": {
+                "neutral": "002"
+            }
+        },
+        {
+            "id": "D0021",
+            "type": "bubble",
+            "screen": "CP1_2_3",
+            "character": {
+                "visible": "false",
+                "image": "GrandPa"
+            },
+            "trigger": {
+                "event": "D003"
+            },
+            "text": {
+                "neutral": "0021"
+            }
+        },
+        {
+            "id": "D003",
+            "type": "bubble",
+            "screen": "CP1_2_3",
+            "character": {
+                "name": "",
+                "image": "Player"
+            },
+            "trigger": {
+                "event": "D004"
+            },
+            "text": {
+                "neutral": "003"
+            }
+        },
+        {
+            "id": "D004",
+            "type": "bubble",
+            "screen": "CP1_2_3",
+            "character": {
+                "visible": "false",
+                "image": "GrandPa"
+            },
+            "trigger": {
+                "event": "D0041"
+            },
+            "text": {
+                "neutral": "004"
+            }
+        },
+        {
+            "id": "D0041",
+            "type": "bubble",
+            "screen": "CP1_2_3",
+            "character": {
+                "visible": "false",
+                "image": "GrandPa"
+            },
+            "trigger": {
+                "event": "D0042"
+            },
+            "text": {
+                "neutral": "0041"
+            }
+        },
+        {
+            "id": "D0042",
+            "type": "bubble",
+            "screen": "CP1_2_3",
+            "character": {
+                "visible": "false",
+                "image": "GrandPa"
+            },
+            "trigger": {
+                "event": "D005"
+            },
+            "text": {
+                "neutral": "0042"
+            }
+        },
+        {
+            "id": "D005",
+            "type": "bubble",
+            "screen": "CP1_2_3",
+            "character": {
+                "image": "Player"
+            },
+            "text": {
+                "neutral": "005"
+            }
+        }
+    ]
+}

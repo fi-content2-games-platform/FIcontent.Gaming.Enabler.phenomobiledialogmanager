@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<gametype>hpc</gametype>
+
+	<tiles x="68" y="81"/>
+	
+	<properties>
+		<property key="minutesPerYear" 		  			value = "0.5" 	type="double"/>
+		<property key="minutesPerWeek" 		  			value = "1.0" 	type="double"/>
+		<property key="P0006_balance" 					value = "100000.0" type="double"/>
+		<property key="simulationSpeed" 				value = "1.0" 	type="double"/>
+		
+		<property key="currentYear" 		  			value = "2014" 	type="int"/>
+		<property key="currentMonth" 		  			value = "5" 	type="int"/>
+		<property key="currentDay" 		  				value = "1" 	type="int"/>
+
+		<property key="feces" 		  					value = "150.0" type="double"/>
+		<property key="fecesDensity" 		  			value = "0.75" 	type="double"/>
+		<property key="urine" 		  					value = "1.5" 	type="double"/>
+		<property key="flushingWater" 		  			value = "21" 	type="double"/>
+		<property key="greywaterSpecific" 		  		value = "46.11" type="double"/>
+		<property key="drinkingWaterSpecific" 		  	value = "84.51" type="double"/>
+		
+		<property key="numberOfPeople" 		  			value = "228" 	type="int"/>
+		<property key="numberOfHouses" 		  			value = "80" 	type="int"/>
+		<property key="criticalMassThreshold"  			value = "1500" 	type="int"/>
+		<property key="cpDurationInDays" 		  		value = "42.0" 	type="double"/>
+
+		<!--
+		<property key="sewageCharge" 		  			value = "2.0" 	type="double"/>
+		<property key="waterTariff"	  					value = "3.0" 	type="double"/>
+		-->
+		
+	</properties>
+	
+	<!-- IDs of the research projects that should already automatically be finished on game start -->
+	<finishedResearchProjects>
+		<!-- there are no research projects which should be finished initially -->
+	</finishedResearchProjects>
+
+</config>

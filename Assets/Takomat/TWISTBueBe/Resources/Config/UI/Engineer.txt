@@ -1,0 +1,103 @@
+{
+    "screens": [
+        {
+            "comment": "Engineer Screens definition",
+            "id": "Engineer",
+            "script": "Engineer",
+            "next": "Simulation",
+            "back": "Simulation",
+            "layers": "Default,Player,Dialog,Menu,Email",
+            "objects": [
+                {
+                    "comment": "HUD Email",
+                    "type": "hud",
+                    "id": "Email"
+                },
+                {
+                    "comment": "HUD Dialogs",
+                    "type": "hud",
+                    "id": "Dialogs",
+                    "position": "0,0"
+                },
+        		{
+                    "comment": "HUD Achievement",
+                    "type": "hud",
+                    "id": "AchievementLog",
+                    "position": "-3.104359,1.87"
+                },
+                {
+                    "comment": "Background",
+                    "type": "image",
+                    "id": "BG_Engineer",
+                    "sprite": "Sprites/Backgrounds/BG_Engineer",
+                    "position": "0,0",
+                    "rotation": "0,0",
+                    "scale": "1,1",
+                    "order": "0",
+                    "layer": "Default"
+                },
+                {
+                    "comment": "Character for Engineer",
+                    "type": "character",
+                    "id": "Engineer",
+                    "sprite": "Sprites/NPC/Engineer",
+                    "position": "0,-3.5",
+                    "rotation": "0,0",
+                    "scale": "1,1",
+                    "order": "1",
+                    "layer": "Default",
+                    "bubble": [
+                        {
+                            "position": "1.9,3.4",
+                            "scale": "40,40",
+                            "tail": "NW"
+                        }
+                    ]
+                },
+                {
+                    "comment": "Character for Player",
+                    "type": "character",
+                    "id": "Player",
+                    "layer": "Default",
+                    "bubble": [
+                        {
+                            "position": "2.7,-0.8",
+                            "scale": "40,40",
+                            "tail": "SE"
+                        }
+                    ]
+                },
+                {
+                    "comment": "Back",
+                    "type": "button",
+                    "id": "btn_LeaveScreen",
+                    "event": "ScreenAgain",
+                    "sprite": "Sprites/btn_LeaveScreen",
+                    "position": "4.6,-2.67",
+                    "rotation": "0,0",
+                    "scale": "1,1",
+                    "order": "2",
+                    "layer": "Default",
+                    "collider": "circle",
+                    "sound": "AUDIO.T0012",
+                    "tooltip": "Tooltip.007"
+                },
+                {
+                    "comment": "Settings",
+                    "type": "button",
+                    "id": "btn_Settings",
+                    "event": "Settings",
+                    "sprite": "Sprites/btn_Settings",
+                    "position": "4.6,-3.3",
+                    "rotation": "0,0",
+                    "scale": "1,1",
+                    "order": "2",
+                    "layer": "Default",
+                    "collider": "circle",
+                    "sound": "AUDIO.T0012",
+                    "tooltip": "Tooltip.004"
+                }
+            ]
+        }
+    ]
+}

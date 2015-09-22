@@ -1,0 +1,613 @@
+{
+    "dialogs": [
+        {
+			"comment": "Final version 0811 by Julia",
+            "id": "D001",
+            "type": "bubble",
+            "screen": "CP1_9_3",
+            "character": {
+                "image": "Engineer"
+            },
+            "trigger": {
+                "event": "D002"
+            },
+            "text": {
+                "neutral": "001"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        },
+        {
+            "id": "D002",
+            "type": "bubble",
+            "screen": "CP1_9_3",
+            "character": {
+                "image": "Engineer"
+            },
+            "trigger": {
+                "event": "D003"
+            },
+            "text": {
+                "neutral": "002"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        },
+        {
+            "id": "D003",
+            "type": "bubble",
+            "screen": "CP1_9_3",
+            "character": {
+                "image": "Engineer"
+            },
+            "trigger": {
+                "event": "D004"
+            },
+            "text": {
+                "neutral": "003"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        },
+        {
+            "id": "D004",
+            "type": "bubble",
+            "screen": "CP1_9_3",
+            "character": {
+                "image": "Engineer"
+            },
+            "trigger": {
+                "event": "D005"
+            },
+            "text": {
+                "neutral": "004"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        },
+        {
+            "id": "D005",
+            "type": "bubble",
+            "screen": "CP1_9_3",
+            "character": {
+                "image": "Engineer"
+            },
+            "trigger": {
+                "event": "D006"
+            },
+            "text": {
+                "neutral": "005"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        },
+        {
+            "id": "D006",
+            "type": "bubble",
+            "screen": "CP1_9_3",
+            "character": {
+                "image": "Engineer"
+            },
+            "trigger": {
+                "event": "D007"
+            },
+            "text": {
+                "neutral": "006"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        },
+        {
+            "id": "D007",
+            "type": "bubble",
+            "screen": "CP1_9_3",
+            "character": {
+                "image": "Player"
+            },
+            "trigger": {
+                "event": "D008"
+            },
+            "text": {
+                "neutral": "007"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        },
+        {
+            "id": "D008",
+            "type": "bubble",
+            "screen": "CP1_9_3",
+            "character": {
+                "image": "Engineer"
+            },
+            "trigger": {
+                "event": "D009"
+            },
+            "text": {
+                "neutral": "008"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        },
+        {
+            "id": "D009",
+            "type": "bubble",
+            "screen": "CP1_9_3",
+            "character": {
+                "image": "Engineer"
+            },
+            "trigger": {
+                "event": "D010"
+            },
+            "text": {
+                "neutral": "009"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        },
+        {
+            "id": "D010",
+            "type": "bubble",
+            "screen": "CP1_9_3",
+            "character": {
+                "image": "Player"
+            },
+            "trigger": {
+                "event": "D011"
+            },
+            "text": {
+                "neutral": "010"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        },
+        {
+            "id": "D011",
+            "type": "bubble",
+            "screen": "CP1_9_3",
+            "character": {
+                "image": "Engineer"
+            },
+            "trigger": {
+                "event": "D012"
+            },
+            "text": {
+                "neutral": "011"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        },
+        {
+            "id": "D012",
+            "type": "bubble",
+            "screen": "CP1_9_3",
+            "character": {
+                "image": "Engineer"
+            },
+            "trigger": {
+                "event": "D013"
+            },
+            "text": {
+                "neutral": "012"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        },
+        {
+            "id": "D013",
+            "type": "bubble",
+            "screen": "CP1_9_3",
+            "character": {
+                "image": "Engineer"
+            },
+            "trigger": {
+                "event": "D0131"
+            },
+            "text": {
+                "neutral": "013"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        },
+        {
+            "id": "D0131",
+            "type": "bubble",
+            "screen": "CP1_9_3",
+            "character": {
+                "image": "Engineer"
+            },
+            "trigger": {
+                "event": "D014"
+            },
+            "text": {
+                "neutral": "0131"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        },
+        {
+            "id": "D014",
+            "type": "bubble",
+            "screen": "CP1_9_3",
+            "character": {
+                "visible": "false",
+                "image": "Engineer"
+            },
+            "trigger": {
+                "event": "D015"
+            },
+            "text": {
+                "neutral": "014"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        },
+        {
+            "id": "D015",
+            "type": "bubble",
+            "screen": "CP1_9_3",
+            "character": {
+                "visible": "false",
+                "image": "Engineer"
+            },
+            "trigger": {
+                "event": "D016"
+            },
+            "text": {
+                "neutral": "015"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        },
+        {
+            "id": "D016",
+            "type": "bubble",
+            "screen": "CP1_9_3",
+            "character": {
+                "visible": "false",
+                "image": "Engineer"
+            },
+            "trigger": {
+                "event": "D017"
+            },
+            "text": {
+                "neutral": "016"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        },
+        {
+            "id": "D017",
+            "type": "bubble",
+            "screen": "CP1_9_3",
+            "character": {
+                "image": "Player"
+            },
+            "trigger": {
+                "event": "D018"
+            },
+            "text": {
+                "neutral": "017"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        },
+        {
+            "id": "D018",
+            "type": "bubble",
+            "screen": "CP1_9_3",
+            "character": {
+                "image": "Engineer"
+            },
+            "trigger": {
+                "event": "D019"
+            },
+            "text": {
+                "neutral": "018"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        },
+        {
+            "id": "D019",
+            "type": "bubble",
+            "screen": "CP1_9_3",
+            "character": {
+                "image": "Engineer"
+            },
+            "trigger": {
+                "event": "D0191"
+            },
+            "text": {
+                "neutral": "019"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        },
+        {
+            "id": "D0191",
+            "type": "bubble",
+            "screen": "CP1_9_3",
+            "character": {
+                "image": "Engineer"
+            },
+            "trigger": {
+                "event": "D020"
+            },
+            "text": {
+                "neutral": "0191"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        },
+        {
+            "id": "D020",
+            "type": "bubble",
+            "screen": "CP1_9_3",
+            "character": {
+                "image": "Engineer"
+            },
+            "trigger": {
+                "event": "D021"
+            },
+            "text": {
+                "neutral": "020"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        },
+        {
+            "id": "D0201",
+            "type": "bubble",
+            "screen": "CP1_9_3",
+            "character": {
+                "image": "Engineer"
+            },
+            "trigger": {
+                "event": "D0202"
+            },
+            "text": {
+                "neutral": "0201"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        },
+        {
+            "id": "D0202",
+            "type": "bubble",
+            "screen": "CP1_9_3",
+            "character": {
+                "image": "Engineer"
+            },
+            "trigger": {
+                "event": "D021"
+            },
+            "text": {
+                "neutral": "0202"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        },
+        {
+            "id": "D021",
+            "type": "bubble",
+            "screen": "CP1_9_3",
+            "character": {
+                "image": "Engineer"
+            },
+            "trigger": {
+                "event": "D0211"
+            },
+            "text": {
+                "neutral": "021"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        },
+        {
+            "id": "D0211",
+            "type": "bubble",
+            "screen": "CP1_9_3",
+            "character": {
+                "image": "Engineer"
+            },
+            "trigger": {
+                "event": "D022"
+            },
+            "text": {
+                "neutral": "0211"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        },
+        {
+            "id": "D022",
+            "type": "bubble",
+            "screen": "CP1_9_3",
+            "character": {
+                "image": "Engineer"
+            },
+            "trigger": {
+                "event": "D023"
+            },
+            "text": {
+                "neutral": "022"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        },
+        {
+            "id": "D023",
+            "type": "bubble",
+            "screen": "CP1_9_3",
+            "character": {
+                "image": "Player"
+            },
+            "trigger": {
+                "event": "D024"
+            },
+            "text": {
+                "neutral": "023"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        },
+        {
+            "id": "D024",
+            "type": "bubble",
+            "screen": "CP1_9_3",
+            "character": {
+                "image": "Engineer"
+            },
+            "trigger": {
+                "event": "D025"
+            },
+            "text": {
+                "neutral": "024"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        },
+        {
+            "id": "D025",
+            "type": "bubble",
+            "screen": "CP1_9_3",
+            "character": {
+                "image": "Engineer"
+            },
+            "trigger": {
+                "event": "D026"
+            },
+            "text": {
+                "neutral": "025"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        },
+        {
+            "id": "D026",
+            "type": "bubble",
+            "screen": "CP1_9_3",
+            "character": {
+                "image": "Engineer"
+            },
+            "trigger": {
+                "event": "D027"
+            },
+            "text": {
+                "neutral": "026"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        },
+        {
+            "id": "D027",
+            "type": "bubble",
+            "screen": "CP1_9_3",
+            "character": {
+                "image": "Engineer"
+            },
+            "trigger": {
+                "event": "D028"
+            },
+            "text": {
+                "neutral": "027"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        },
+        {
+            "id": "D028",
+            "type": "bubble",
+            "screen": "CP1_9_3",
+            "character": {
+                "image": "Player"
+            },
+            "trigger": {
+                "event": "D029"
+            },
+            "text": {
+                "neutral": "028"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        },
+        {
+            "id": "D029",
+            "type": "bubble",
+            "screen": "CP1_9_3",
+            "character": {
+                "image": "Engineer"
+            },
+            "trigger": {
+                "event": "D0291"
+            },
+            "text": {
+                "neutral": "029"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        },
+        {
+            "id": "D0291",
+            "type": "bubble",
+            "screen": "CP1_9_3",
+            "character": {
+                "image": "Engineer"
+            },
+            "trigger": {
+                "event": "D0292"
+            },
+            "text": {
+                "neutral": "0291"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        },
+        {
+            "id": "D0292",
+            "type": "bubble",
+            "screen": "CP1_9_3",
+            "character": {
+                "image": "Engineer"
+            },
+            "trigger": {
+                "event": "D030"
+            },
+            "text": {
+                "neutral": "0292"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        },
+        {
+            "id": "D030",
+            "type": "bubble",
+            "screen": "CP1_9_3",
+            "character": {
+                "image": "Engineer"
+            },
+            "trigger": {
+                "event": "D031"
+            },
+            "text": {
+                "neutral": "030"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        },
+        {
+            "id": "D031",
+            "type": "bubble",
+            "screen": "CP1_9_3",
+            "character": {
+                "image": "Player"
+            },
+            "text": {
+                "neutral": "031"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        }
+    ]
+}

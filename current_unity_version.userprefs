@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Takomat/TWISTBueBe/Scripts/EndGame.cs">
+    <Files>
+      <File FileName="Assets/Takomat/Epigene/Scripts/IO/DBModuleTest.cs" Line="49" Column="34" />
+      <File FileName="Assets/Takomat/Epigene/Scripts/IO/DBModule.cs" Line="295" Column="21" />
+      <File FileName="Assets/Takomat/Epigene/Scripts/MainGame.cs" Line="66" Column="22" />
+      <File FileName="Assets/Takomat/Epigene/Scripts/UI/UIManager.cs" Line="1201" Column="8" />
+      <File FileName="Assets/Takomat/TWISTBueBe/Scripts/Screen1.cs" Line="1" Column="1" />
+      <File FileName="Assets/Takomat/TWISTBueBe/Scripts/EndGame.cs" Line="21" Column="16" />
+      <File FileName="Assets/Takomat/TWISTBueBe/Scripts/CityHallOffice.cs" Line="58" Column="7" />
+      <File FileName="Assets/Takomat/Epigene/Scripts/MODEL/Objectives/Z0000_GameObjectives.cs" Line="181" Column="2" />
+      <File FileName="Assets/Takomat/TWISTBueBe/Scripts/ScoreBar.cs" Line="284" Column="18" />
+      <File FileName="Assets/Takomat/Epigene/Scripts/IO/HighscoreManager.cs" Line="67" Column="92" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

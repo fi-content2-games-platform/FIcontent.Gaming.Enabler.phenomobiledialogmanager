@@ -1,0 +1,46 @@
+{
+    "dialogs": [
+        {
+			"comment": "Final version 0807 by Julia - construction plans?",
+            "id": "D001",
+            "type": "bubble",
+            "screen": "CP1_5_7",
+            "character": {
+                "image": "CoordLady"
+            },
+            "text": {
+                "neutral": "001"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        },
+		{
+			"comment": "Final version 0807 by Julia - request construction plans",
+            "id": "D002",
+            "type": "bubble",
+            "screen": "CP1_5_7",
+            "character": {
+                "image": "Player"
+            },
+            "text": {
+                "positive": "002"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        },
+		{
+			"comment": "Final version 0807 by Julia - don't request construction plans?",
+            "id": "D003",
+            "type": "bubble",
+            "screen": "CP1_5_7",
+            "character": {
+                "image": "Player"
+            },
+            "text": {
+                "negative": "003"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        }
+    ]
+}

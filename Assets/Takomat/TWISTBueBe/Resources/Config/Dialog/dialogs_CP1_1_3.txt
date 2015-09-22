@@ -1,0 +1,18 @@
+{
+    "dialogs": [
+        {
+            "comment": "Final version 0507 by Julia",
+            "id": "D001",
+            "type": "bubble",
+            "screen": "CP1_1_3",
+            "character": {
+                "image": ""
+            },
+            "text": {
+                "neutral": "001"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        }
+    ]
+}

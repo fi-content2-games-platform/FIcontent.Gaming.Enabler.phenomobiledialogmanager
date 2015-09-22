@@ -1,0 +1,111 @@
+{
+    "screens": [
+        {
+            "comment": "StartScreen Definitions",
+            "id": "BB0StartScreen",
+            "script": "Screen0",
+            "next": "BB1CityHall",
+            "back": "GameOver",
+            "layers": "Default",
+            "objects": [
+                {
+                    "comment": "Background",
+                    "type": "image",
+                    "id": "bg_CityHallOffice",
+                    "sprite": "Sprites/Backgrounds/bg_CityHallOffice",
+                    "position": "0,0",
+                    "rotation": "0,0",
+                    "scale": "1,1",
+                    "order": "0",
+                    "layer": "Default"
+                },
+                {
+                    "comment": "Release Notes",
+                    "type": "hud",
+                    "id": "ReleaseNotes",
+                    "position": "1.5,-0.8"
+                },
+                {
+                    "comment": "to city hall",
+                    "type": "button",
+                    "id": "btn_to_cityHall",
+                    "event": "ToCityHall",  
+                    "sprite": "Sprites/Achievement/btn_badge_Achievements",                  
+                    "position": "-3.5,1",
+                    "rotation": "0,0",
+                    "scale": "2,2",
+                    "order": "30",
+                    "layer": "Default",
+                    "collider": "circle"
+                },
+                {
+                    "comment": "city office image",
+                    "type": "image",
+                    "id": "image_to_cityHall",
+                    "sprite": "Sprites/Achievement/badge_Achievements",
+                    "spriteNumber": "4",
+                    "position": "-3.5,1",
+                    "rotation": "0,0",
+                    "scale": "2,2",
+                    "order": "31",
+                    "layer": "Default"
+                },
+                {
+                    "comment": "direct to engineer",
+                    "type": "button",
+                    "id": "btn_to_engineer",
+                    "event": "ToEngineer",  
+                    "sprite": "Sprites/Achievement/btn_badge_Achievements",                  
+                    "position": "-3.5,-1",
+                    "rotation": "0,0",
+                    "scale": "2,2",
+                    "order": "30",
+                    "layer": "Default",
+                    "collider": "circle"
+                },
+                {
+                    "comment": "engineer image",
+                    "type": "image",
+                    "id": "image_to_engineer",
+                    "sprite": "Sprites/Achievement/badge_Achievements",
+                    "spriteNumber": "6",
+                    "position": "-3.5,-1",
+                    "rotation": "0,0",
+                    "scale": "2,2",
+                    "order": "31",
+                    "layer": "Default"
+                },
+                {
+                    "comment": "TXT CityHall",
+                    "type": "text",
+                    "id": "ToCityHall.text",
+                    "position": "-3.5,0.2",
+                    "scale": "0.1,0.1",
+                    "order": "4",
+                    "layer": "Default",
+                    "localized": "true",
+                    "font": "Fonts/GOTH725B",
+                    "fontSize": "20",
+                    "anchor": "middle center",
+                    "alignment": "center",
+                    "wrapsize": "15"
+                },
+                {
+                    "comment": "TXT Engineer",
+                    "type": "text",
+                    "id": "ToEngineer.text",
+                    "position": "-3.5,-1.8",
+                    "scale": "0.1,0.1",
+                    "order": "4",
+                    "layer": "Default",
+                    "localized": "true",
+                    "font": "Fonts/GOTH725B",
+                    "fontSize": "20",
+                    "anchor": "middle center",
+                    "alignment": "center",
+                    "wrapsize": "15"
+                }
+            ]
+        }
+    ]
+}

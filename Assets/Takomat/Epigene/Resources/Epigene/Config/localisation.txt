@@ -1,0 +1,11 @@
+[EN]
+001=Citizen partizipitation game 2013
+002=Who are You?
+003=What is important for you?
+004=What you are doing for it?
+
+[DE]
+001=Bürgerbeteiligungsspiel 2013
+002=Wer sind sie?
+003=Was ist ihnen wichtig?
+004=Was tun sie dafür?

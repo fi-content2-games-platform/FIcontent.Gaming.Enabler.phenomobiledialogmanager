@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: 5a7f9122e8f6f9c478398e6a96518dba
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: large_bubble_outline
+    100004: large_bubble_scale
+    100006: large_bubble_text
+    100008: large_name_group
+    100010: large_name_outline
+    100012: large_name_text
+    100014: large_schweif_E
+    100016: large_schweif_group
+    100018: large_schweif_N
+    100020: large_schweif_NE
+    100022: large_schweif_NW
+    100024: large_schweif_S
+    100026: large_schweif_SE
+    100028: large_schweif_SW
+    100030: large_schweif_W
+    100032: large_triangle
+    100034: large_x
+    400000: //RootNode
+    400002: large_bubble_outline
+    400004: large_bubble_scale
+    400006: large_bubble_text
+    400008: large_name_group
+    400010: large_name_outline
+    400012: large_name_text
+    400014: large_schweif_E
+    400016: large_schweif_group
+    400018: large_schweif_N
+    400020: large_schweif_NE
+    400022: large_schweif_NW
+    400024: large_schweif_S
+    400026: large_schweif_SE
+    400028: large_schweif_SW
+    400030: large_schweif_W
+    400032: large_triangle
+    400034: large_x
+    2300000: large_bubble_outline
+    2300002: large_bubble_text
+    2300004: large_name_outline
+    2300006: large_name_text
+    2300008: large_schweif_E
+    2300010: large_schweif_N
+    2300012: large_schweif_NE
+    2300014: large_schweif_NW
+    2300016: large_schweif_S
+    2300018: large_schweif_SE
+    2300020: large_schweif_SW
+    2300022: large_schweif_W
+    2300024: large_triangle
+    2300026: large_x
+    3300000: large_bubble_outline
+    3300002: large_bubble_text
+    3300004: large_name_outline
+    3300006: large_name_text
+    3300008: large_schweif_E
+    3300010: large_schweif_N
+    3300012: large_schweif_NE
+    3300014: large_schweif_NW
+    3300016: large_schweif_S
+    3300018: large_schweif_SE
+    3300020: large_schweif_SW
+    3300022: large_schweif_W
+    3300024: large_triangle
+    3300026: large_x
+    4300000: large_x
+    4300002: large_triangle
+    4300004: large_bubble_outline
+    4300006: large_bubble_text
+    4300008: large_schweif_S
+    4300010: large_schweif_W
+    4300012: large_schweif_E
+    4300014: large_schweif_N
+    4300016: large_schweif_NW
+    4300018: large_schweif_NE
+    4300020: large_schweif_SW
+    4300022: large_schweif_SE
+    4300024: large_name_text
+    4300026: large_name_outline
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

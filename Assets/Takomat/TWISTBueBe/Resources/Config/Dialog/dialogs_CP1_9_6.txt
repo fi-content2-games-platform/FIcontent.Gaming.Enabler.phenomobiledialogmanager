@@ -1,0 +1,82 @@
+{
+    "dialogs": [
+        {
+			"comment": "Final version 0811 by Julia",
+            "id": "D001",
+            "type": "bubble",
+            "screen": "CP1_9_6",
+            "character": {
+                "image": "Engineer"
+            },
+            "trigger": {
+                "event": "D0011"
+            },
+            "text": {
+                "neutral": "001"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        },
+        {
+            "id": "D0011",
+            "type": "bubble",
+            "screen": "CP1_9_6",
+            "character": {
+                "image": "Engineer"
+            },
+            "trigger": {
+                "event": "D002"
+            },
+            "text": {
+                "neutral": "0011"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        },
+        {
+            "id": "D002",
+            "type": "bubble",
+            "screen": "CP1_9_6",
+            "character": {
+                "image": "Engineer"
+            },
+            "trigger": {
+                "event": "D003"
+            },
+            "text": {
+                "neutral": "002"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        },
+        {
+            "id": "D003",
+            "type": "bubble",
+            "screen": "CP1_9_6",
+            "character": {
+                "image": "Engineer"
+            },
+            "trigger": {
+                "event": "D004"
+            },
+            "text": {
+                "neutral": "003"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        },
+        {
+            "id": "D004",
+            "type": "bubble",
+            "screen": "CP1_9_6",
+            "character": {
+                "image": "Engineer"
+            },
+            "text": {
+                "neutral": "004"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        }
+    ]
+}

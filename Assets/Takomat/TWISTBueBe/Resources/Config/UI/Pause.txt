@@ -1,0 +1,89 @@
+   {
+    "screens": [
+        {
+            "comment": "Settings Screens definition",
+            "id": "Pause",
+            "script": "Pause",
+            "next": "Simulation",
+            "back": "Simulation",
+            "layers": "Default, HUD",
+            "objects": [
+                
+                {
+                    "comment": "HUD simulation TimeLine",
+                    "type": "hud",
+                    "id": "TimeLineSIM",
+                    "position": "2.424,3.268"
+                },
+                {
+                    "comment": "Background",
+                    "type": "image",
+                    "id": "bg_Grey",
+                    "sprite": "Sprites/Backgrounds/bg_Grey",
+                    "position": "0,0",
+                    "rotation": "0,0",
+                    "scale": "1,1",
+                    "order": "0",
+                    "layer": "Default"
+                },
+                {
+                    "comment": "TXT 001",
+                    "type": "text",
+                    "id": "PauseMenu.001",
+                    "position": "-4.05,1.64",
+                    "scale": "0.1,0.1",
+                    "order": "3",
+                    "layer": "Default",
+                    "localized": "true",
+                    "font": "Fonts/UniversLTStd-Cn",
+                    "fontStyle": "bold",
+                    "fontSize": "43",
+                    "color": "160,160,160,255",
+                    "anchor": "middle left",
+                    "alignment": "center",
+                    "wrapsize": "30"
+                },
+                {
+                    "comment": "TXT 002",
+                    "type": "text",
+                    "id": "PauseMenu.002",
+                    "position": "0,0",
+                    "scale": "0.1,0.1",
+                    "order": "3",
+                    "layer": "Default",
+                    "localized": "true",
+                    "font": "Fonts/UniversLTStd-LightCn",
+                    "fontSize": "22",
+                    "anchor": "middle center",
+                    "alignment": "center",
+                    "wrapsize": "30"
+                },
+                {
+                    "comment": "subdivision",
+                    "type": "image",
+                    "id": "subdivision",
+                    "sprite": "Sprites/Backgrounds/subdivision_Settings",
+                    "position": "0,0",
+                    "rotation": "0,0",
+                    "scale": "1,1",
+                    "order": "1",
+                    "layer": "Default"
+                },
+                {
+                    "comment": "back",
+                    "type": "button",
+                    "id": "btn_Play",
+                    "event": "Back",
+                    "sprite": "Sprites/TimeLine/btn_Play",
+                    "position": "0,-0.5",
+                    "rotation": "0,0",
+                    "scale": "1.7,1.7",
+                    "order": "2",
+                    "layer": "Default",
+                    "collider": "circle",
+                    "sound": "AUDIO.T0012"
+                }
+            ]
+        }
+    ]
+}

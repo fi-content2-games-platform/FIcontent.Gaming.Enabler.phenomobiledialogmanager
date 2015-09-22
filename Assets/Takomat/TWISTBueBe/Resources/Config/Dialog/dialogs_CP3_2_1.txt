@@ -1,0 +1,34 @@
+{
+    "dialogs": [
+        {
+			"comment": "Final version 0512 by Julia",
+            "id": "D001",
+            "type": "bubble",
+            "screen": "CP3_2_1",
+            "character": {
+                "image": "CoordLady"
+            },
+            "trigger": {
+                "event": "D002"
+            },
+            "text": {
+                "neutral": "001"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        },
+        {
+            "id": "D002",
+            "type": "bubble",
+            "screen": "CP3_2_1",
+            "character": {
+                "image": "CoordLady"
+            },
+            "text": {
+                "neutral": "002"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        }
+    ]
+}

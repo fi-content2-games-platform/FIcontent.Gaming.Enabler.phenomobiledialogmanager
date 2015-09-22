@@ -1,0 +1,88 @@
+{
+    "dialogs": [
+        {
+            "comment": "Are you an active citizen? Starting the dialog",
+            "id": "D001",
+            "type": "bubble",
+            "screen": "CP1_10_3",
+            "character": {
+                "image": "CoordLady"
+            },
+            "trigger": {
+                "event": "D002"
+            },
+            "text": {
+                "neutral": "001"
+            },
+            "lifetime_in_days": "23",
+            "minLifetime_in_ms": "10000"
+        },
+        {
+            "id": "D002",
+            "type": "bubble",
+            "screen": "CP1_10_3",
+            "character": {
+                "image": "CoordLady"
+            },
+            "trigger": {
+                "event": "D003"
+            },
+            "text": {
+                "neutral": "002"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        },
+        {
+            "id": "D003",
+            "type": "multichoice",
+            "screen": "CP1_10_3",
+            "character": {
+                "image": "Player"
+            },
+            "trigger": {
+                "event": "D004"
+            },
+            "text": {
+                "neutral": "003",
+                "positive": "004",
+                "negative": "005"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        },
+        {
+            "id": "D004",
+            "type": "bubble",
+            "screen": "CP1_10_3",
+            "character": {
+                "image": "Player"
+            },
+            "trigger": {
+                "event": "D005"
+            },
+            "text": {
+                "neutral": "003",
+                "positive": "004",
+                "negative": "005"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        },
+        {
+            "id": "D005",
+            "type": "bubble",
+            "screen": "CP1_10_3",
+            "character": {
+                "image": "CoordLady"
+            },
+            "text": {
+                "neutral": "006",
+                "positive": "006",
+                "negative": "006"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        }
+    ]
+}

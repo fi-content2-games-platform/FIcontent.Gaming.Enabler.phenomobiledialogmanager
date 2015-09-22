@@ -1,0 +1,71 @@
+{
+    "Attributes":
+    [
+		{
+            "id"   : "1",                    
+            "label": "actualValue",
+            "value": "0",
+            "unit" : "€"
+        },
+        {
+            "id"   : "2",                    
+            "label": "social_Threshold_Min",
+            "value": "0",
+            "unit" : "€"
+        },
+		{
+            "id"   : "3",                    
+            "label": "social_Threshold_Max",
+            "value": "12000000",
+            "unit" : "€"
+        },
+        {
+            "id"   : "4",                    
+            "label": "social_Score_Current",
+            "value": "60",
+            "unit" : ""
+        },
+        {
+            "id"   : "5",                    
+            "label": "social_Score_Max",
+            "value": "60",
+            "unit" : ""
+        },
+        {
+            "id"   : "6",                    
+            "label": "social_Units_per_Point",
+            "value": "0",
+            "unit" : ""
+        },
+        {
+            "id"   : "7",                    
+            "label": "economy_Threshold_Min",
+            "value": "0",
+            "unit" : "€"
+        },
+		{
+            "id"   : "8",                    
+            "label": "economy_Threshold_Max",
+            "value": "12000000",
+            "unit" : "€"
+        },
+        {
+            "id"   : "9",                    
+            "label": "economy_Score_Current",
+            "value": "120",
+            "unit" : ""
+        },
+        {
+            "id"   : "10",                    
+            "label": "economy_Score_Max",
+            "value": "120",
+            "unit" : ""
+        },
+        {
+            "id"   : "11",                    
+            "label": "economy_Units_per_Point",
+            "value": "0",
+            "unit" : ""
+        }
+    ]    
+}

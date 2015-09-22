@@ -1,0 +1,19 @@
+{
+    "dialogs": [
+        {
+			"comment": "Final version 0507 by Julia includes also 1_7_2 logic",
+            "id": "D001",
+            "type": "bubble",
+            "screen": "CP1_7_1",
+            "character": {
+                "visible": "false",
+                "image": "CoordLady"
+            },
+            "text": {
+                "neutral": "001"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        }
+    ]
+}

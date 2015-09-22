@@ -1,0 +1,32 @@
+{
+    "dialogs": [
+        {
+			"comment": "Final version 0507 by Julia -- critical mass reached",
+            "id": "D001",
+            "type": "bubble",
+            "screen": "CP1_11_1",
+            "character": {
+                "image": ""
+            },
+            "text": {
+                "neutral": "001"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        },
+		{
+			"comment": "Final version 0507 by Julia -- critical mass not reached",
+            "id": "D002",
+            "type": "bubble",
+            "screen": "CP1_11_1",
+            "character": {
+                "image": ""
+            },
+            "text": {
+                "neutral": "002"
+            },
+            "lifetime_in_days": "",
+            "minLifetime_in_ms": "10000"
+        }
+    ]
+}

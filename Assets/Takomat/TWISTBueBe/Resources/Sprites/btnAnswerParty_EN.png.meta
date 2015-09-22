@@ -1,0 +1,93 @@
+fileFormatVersion: 2
+guid: e77b67bfb165c420aa059c23ffc19973
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 20140826_1209_BB++_IntroScreen_Artboard-09
+    21300002: btnAnswerParty_EN
+    21300004: btnAnswerParty_EN_0
+    21300006: btnAnswerParty_EN_1
+    21300008: btnAnswerParty_EN_2
+    21300010: btnAnswerParty_EN_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: btnAnswerParty_EN_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 784
+        width: 590
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: btnAnswerParty_EN_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 537
+        width: 590
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: btnAnswerParty_EN_2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 294
+        width: 590
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: btnAnswerParty_EN_3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 30
+        width: 590
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

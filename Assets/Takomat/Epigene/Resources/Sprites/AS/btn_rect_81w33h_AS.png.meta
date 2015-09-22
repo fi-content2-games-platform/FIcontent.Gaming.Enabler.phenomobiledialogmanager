@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: 3af93f564ec3e4d26a439db48623b1d9
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: btn_rect_81w33h_AS_0
+    21300002: btn_rect_81w33h_AS_1
+    21300004: btn_rect_81w33h_AS_2
+    21300006: btn_rect_81w33h_AS_4
+    21300008: btn_rect_81w33h_AS_3
+    21300010: btn_rect_81w33h_AS_5
+    21300012: btn_rect_81w33h_AS_6
+    21300014: btn_rect_81w33h_AS_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: btn_rect_81w33h_AS_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 409
+        width: 85
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: btn_rect_81w33h_AS_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 360
+        width: 85
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: btn_rect_81w33h_AS_2
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 310
+        width: 85
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: btn_rect_81w33h_AS_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 256
+        width: 85
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: btn_rect_81w33h_AS_3
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 201
+        width: 85
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: btn_rect_81w33h_AS_5
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 146
+        width: 85
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: btn_rect_81w33h_AS_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 86
+        width: 85
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: btn_rect_81w33h_AS_7
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 26
+        width: 85
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

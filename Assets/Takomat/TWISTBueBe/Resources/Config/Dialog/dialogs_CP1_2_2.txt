@@ -1,0 +1,100 @@
+{
+    "dialogs": [
+        {
+            "id": "D001",
+            "type": "bubble",
+            "screen": "CP1_2_2",
+            "character": {
+                "visible": "false",
+                "image": "GrandPa"
+            },
+            "trigger": {
+                "event": "D002"
+            },
+            "text": {
+                "neutral": "001"
+            }
+        },
+        {
+            "id": "D002",
+            "type": "bubble",
+            "screen": "CP1_2_2",
+            "character": {
+                "image": "Player"
+            },
+            "trigger": {
+                "event": "D003"
+            },
+            "text": {
+                "neutral": "002"
+            }
+        },
+        {
+            "id": "D003",
+            "type": "bubble",
+            "screen": "CP1_2_2",
+            "character": {
+                "visible": "false",
+                "image": "GrandPa"
+            },
+            "trigger": {
+                "event": "D0031"
+            },
+            "text": {
+                "neutral": "003"
+            }
+        },
+        {
+            "id": "D0031",
+            "type": "bubble",
+            "screen": "CP1_2_2",
+            "character": {
+                "visible": "false",
+                "image": "GrandPa"
+            },
+            "text": {
+                "neutral": "0031"
+            }
+        },
+        {
+            "id": "D004",
+            "type": "bubble",
+            "screen": "CP1_2_2",
+            "character": {
+                "image": "Player"
+            },
+            "trigger": {
+                "event": "D005"
+            },
+            "text": {
+                "neutral": "005"
+            }
+        },
+        {
+            "id": "D005",
+            "type": "bubble",
+            "screen": "CP1_2_2",
+            "character": {
+                "image": "GrandPa"
+            },
+            "trigger": {
+                "event": "D0051"
+            },
+            "text": {
+                "neutral": "006"
+            }
+        },
+        {
+            "id": "D0051",
+            "type": "bubble",
+            "screen": "CP1_2_2",
+            "character": {
+                "visible": "false",
+                "image": "GrandPa"
+            },
+            "text": {
+                "neutral": "0061"
+            }
+        }
+    ]
+}

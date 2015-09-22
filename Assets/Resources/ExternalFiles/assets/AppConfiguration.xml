@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+
+	<property key="width" value="1008" />
+	<property key="height" value="756" />
+	<!-- color of the playground under the terrain image -->
+	<property key="playgroundBgColor" value="0x052844" type="uint"/>
+	
+	<!-- start scenario -->
+	<property key="scenarioURL" value="assets/startScenario.xml"/>
+	
+	<!-- abilities -->
+	<property key="saveAndLoadGameEnabled"  value="true" type="boolean"/>
+	<property key="enableDebugFeatures" value="true" type="boolean"/>
+	
+	<!-- configuration -->
+	<property key="configPath" value="assets/config/"/>
+	<property key="IPConfigPath" value="assets/IPAppConfiguration.txt"/>
+	
+	<!-- resources -->
+	<property key="resourceFile" value="assets/e2010/resources/E2010GameResources.swf" />
+	<!-- name of the main class in the resource file -->
+	<property key="resourceName" value="E2010GameResources"/>
+	
+	<stringResources>
+		<resource url="assets/strings/hud.xml"/>
+		<resource url="assets/strings/gui.xml"/>	
+	</stringResources>
+	
+	<!-- Caching params -->
+	<property key="cachingResources" 	value="false" type ="boolean"/>
+	<property key="timestampResources" 	value="1"/>
+	<property key="cachingXml" 			value="false" type="boolean" />
+	<property key="timestampXml"		value="1"/>
+		
+	<!-- Intro and background image -->
+	<property key="loadingBgImg" value="assets/e2010/img/loading/100416_E2010_TAO_ladeScreens_background.jpg"/>
+	<property key="introUrl" value="assets/e2010/flv/intro.f4v"/>
+	<property key="introSkipEnabled" value="true" type="boolean"/>
+	
+	<!-- URL to use in order to check for internet connection-->
+	<property key="connectionCheckURL" value="http://www.twist-water.com"/>
+	
+	<!-- db module configuration-->
+	<property key="pathToDBModule" value="assets/e2010/modules/E2013_DBModule.swf"/>
+	<property key="displayDBModule" value="true" type="boolean"/>
+	<!-- this value configures which communication protocol to use.-->
+	<property key="protocol" value="http://"/>
+	<!-- this value configures which remote URL to use. Valid values are 'production' and 'staging' -->
+	<property key="serverType" value="production_twist"/>
+	
+	<!-- ISO zoom configuration for auto zoom on game start-->
+	<property key="autoZoomEnabled" value="false" type="boolean"/>
+	<property key="autoZoomTimeInMs" value="2000" />
+	<property key="autoZoomStartValue" value="0.28" />
+	<property key="autoZoomStartXOffset" value="-210" />
+	
+	<!-- ISO zoom configuration for user zoom via minimap-->
+	<property key="userZoomEnabled" value="true" type="boolean"/>
+	<property key="userZoomMin" value="0.28" />
+	<property key="userZoomMax" value="1.0" />
+	<property key="userZoomSteps" value="17" />
+	
+	<!-- bg sound condition config-->
+	<property key="sound_b_startYear" value="2030"/>
+	
+	<property key="sound_c_minSecondGenerationPowerPlants" value="3"/>
+	<property key="sound_c_minCompletedResearchProjects" value="5"/>
+	
+	<property key="sound_d_factorSocialPoints" value="0.1"/>
+	<property key="sound_d_factorEconomyPoints" value="0.1"/>
+	<property key="sound_d_factorEcologyPoints" value="0.1"/>
+	
+</config>
