@@ -16,7 +16,10 @@ You need to git to do so, help on how to install it is available at https://help
 
 Import to Unity
 
-Open the example scene:
+Open the example scene int the unity project:
 
-FIcontent.Gaming.Enabler.GameSynchronization/Assets/GameSynchronization/Takomat/TWISTBueBe/Scenes/Example.unity
+Assets/GameSynchronization/Takomat/TWISTBueBe/Scenes/Example.unity
 Hit play and enjoy!
+
+The code API is documented in the all teh epigen classes in the folder 
+Assets/GameSynchronization/Takomat/epigene
