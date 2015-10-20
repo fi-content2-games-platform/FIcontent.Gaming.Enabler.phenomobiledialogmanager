@@ -22,6 +22,14 @@ Assets/GameSynchronization/Takomat/TWISTBueBe/Scenes/Example.unity
 
 Hit play and enjoy!
 
-The code API is documented in the all teh epigen classes in the folder 
-
+The code API is documented in all the classes in the following folder:
 Assets/GameSynchronization/Takomat/epigene
+
+Additionally an API overview and a written explained example is
+given by the following links
+
+Overview:
+http://wiki.mediafi.org/doku.php/ficontent.gaming.enabler.phenomobiledialogmanager
+
+An example:
+http://wiki.mediafi.org/doku.php/ficontent.gaming.enabler.phenomobiledialogmanager.developerguide
