@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['i18n',['i18n',['../class_epigene_1_1_main_game.html#ad68df83b81d84f4ae51504027947fbba',1,'Epigene.MainGame.i18n()'],['../class_epigene_1_1_u_i_1_1_u_i_screen.html#a8880affb41a81427a21e0589cf748f45',1,'Epigene.UI.UIScreen.i18n()']]],
+  ['icon',['icon',['../class_epigene_1_1_m_o_d_e_l_1_1_constructions_1_1_data.html#a07bb8d8d98af6e16609535d0f96eeb68',1,'Epigene::MODEL::Constructions::Data']]],
+  ['id',['id',['../class_epigene_1_1_m_o_d_e_l_1_1_mail.html#a1115643ee3e339074c2a48adf6121c95',1,'Epigene.MODEL.Mail.id()'],['../class_epigene_1_1_m_o_d_e_l_1_1_n_p_c.html#aa3d17d0ffe8eac6752c0c50069671e37',1,'Epigene.MODEL.NPC.id()'],['../class_epigene_1_1_speech_bubble.html#af4699001b87b17f8c84874050dd174ab',1,'Epigene.SpeechBubble.id()'],['../class_epigene_1_1_tooltip.html#add6968c2258bbeae7ef335c90ae52c58',1,'Epigene.Tooltip.id()']]],
+  ['idformat',['idFormat',['../class_epigene_1_1_m_o_d_e_l_1_1_multi_choice.html#a6778ee3d90a8c06ad61e5f99f0b454ad',1,'Epigene::MODEL::MultiChoice']]],
+  ['image',['image',['../class_epigene_1_1_image.html#a1b77f4702a676077b26972582434bd2d',1,'Epigene::Image']]],
+  ['images',['images',['../class_epigene_1_1_u_i_1_1_u_i_progress_bar.html#a01d7d404d1ed56d9e4d60505317f3e68',1,'Epigene::UI::UIProgressBar']]],
+  ['informcitizen',['informCitizen',['../class_epigene_1_1_m_o_d_e_l_1_1_z0000___game_objectives.html#a7f1e14dc06dc6600263d5405f08386ff',1,'Epigene::MODEL::Z0000_GameObjectives']]],
+  ['informhotspot_5f001uuid',['informHotspot_001UUID',['../class_epigene_1_1_m_o_d_e_l_1_1_z0000___game_objectives.html#a5af703dde7ec8e8aac15533fcf1976b9',1,'Epigene::MODEL::Z0000_GameObjectives']]],
+  ['informhotspot_5f002uuid',['informHotspot_002UUID',['../class_epigene_1_1_m_o_d_e_l_1_1_z0000___game_objectives.html#ae0302bc1b1d6ee8df9f2c6470068f412',1,'Epigene::MODEL::Z0000_GameObjectives']]],
+  ['informhotspot_5f003uuid',['informHotspot_003UUID',['../class_epigene_1_1_m_o_d_e_l_1_1_z0000___game_objectives.html#a2d816adb62d176636d1021cb12e9a861',1,'Epigene::MODEL::Z0000_GameObjectives']]],
+  ['infotext',['infotext',['../class_epigene_1_1_m_o_d_e_l_1_1_achievement.html#a4d703b84734b5d378cb327e185de324f',1,'Epigene::MODEL::Achievement']]],
+  ['initialized',['initialized',['../class_epigene_1_1_i_o_1_1_game_configuration.html#acc13da2dd5e65677066e56be7261b1f4',1,'Epigene.IO.GameConfiguration.initialized()'],['../class_epigene_1_1_i_o_1_1_i_p_app_configuration.html#ab965592dae0ebcfcb1127a4dd14802c3',1,'Epigene.IO.IPAppConfiguration.initialized()']]],
+  ['initparticipationuuid',['initParticipationUUID',['../class_epigene_1_1_m_o_d_e_l_1_1_z0000___game_objectives.html#a02bbb8ffb88b54fb57b73a7bdbcc34a5',1,'Epigene::MODEL::Z0000_GameObjectives']]],
+  ['initpostponementuuid',['initPostponementUUID',['../class_epigene_1_1_m_o_d_e_l_1_1_z0000___game_objectives.html#afe7b92207f5e7f7144603a24480c9961',1,'Epigene::MODEL::Z0000_GameObjectives']]],
+  ['ipconfigpath',['ipConfigPath',['../class_epigene_1_1_i_o_1_1_app_configuration.html#afba7d5a267c5088667d6242daac73884',1,'Epigene::IO::AppConfiguration']]],
+  ['isdismanteled',['isDismanteled',['../class_epigene_1_1_m_o_d_e_l_1_1_constructions.html#a0414911416c685ac1e89a560b0d340d3',1,'Epigene::MODEL::Constructions']]],
+  ['islocalized',['isLocalized',['../class_epigene_1_1_u_i_1_1_u_i_text.html#a017da4d9acaa8f3fe26fff27f3ce1967',1,'Epigene::UI::UIText']]],
+  ['isnumeric',['isNumeric',['../class_epigene_1_1_u_i_1_1_u_i_text.html#a028dfab6cf397988752f76c212bb25d1',1,'Epigene::UI::UIText']]],
+  ['isoutoforder',['isOutOfOrder',['../class_epigene_1_1_m_o_d_e_l_1_1_constructions.html#ac3fcd3f1c2f91fc33b58ef04661e8e4d',1,'Epigene::MODEL::Constructions']]],
+  ['isreaded',['isReaded',['../class_epigene_1_1_m_o_d_e_l_1_1_mail.html#a4fe6ccc846da43dc01d34f444585d007',1,'Epigene::MODEL::Mail']]]
+];
